@@ -8,7 +8,9 @@
 # 🛠️ Tech Stack
 - Python
 - SQL
+- Excel
 - Power BI
+- Machine Learning
 - Matlab
 
 <!---
