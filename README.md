@@ -12,6 +12,7 @@
 - Power BI
 - Machine Learning
 - Matlab
+- Git
 
 <!---
 Alex-osayi/Alex-osayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
